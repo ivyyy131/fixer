@@ -1,0 +1,16 @@
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\controller\XmlApiController.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\dto\json\CurrencyRequest.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\Application.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\controller\JsonApiController.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\repository\CurrencyDataRepository.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\dto\xml\GetRequest.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\dto\xml\HistoryRequest.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\dto\xml\CommandRequest.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\dto\json\CurrencyHistoryRequest.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\repository\RequestLogRepository.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\service\CurrencyService.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\config\RabbitMQConfig.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\model\RequestLog.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\service\FixerService.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\model\CurrencyData.java
+C:\Users\Ivy\EGT\src\main\java\com\egt\gateway\service\RabbitMQSender.java

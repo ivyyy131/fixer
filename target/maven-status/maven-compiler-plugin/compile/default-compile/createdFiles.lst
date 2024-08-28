@@ -1,0 +1,16 @@
+com\egt\gateway\dto\xml\CommandRequest.class
+com\egt\gateway\dto\xml\GetRequest.class
+com\egt\gateway\model\CurrencyData.class
+com\egt\gateway\repository\RequestLogRepository.class
+com\egt\gateway\service\CurrencyService.class
+com\egt\gateway\controller\JsonApiController.class
+com\egt\gateway\service\FixerService.class
+com\egt\gateway\controller\XmlApiController.class
+com\egt\gateway\dto\xml\HistoryRequest.class
+com\egt\gateway\dto\json\CurrencyRequest.class
+com\egt\gateway\model\RequestLog.class
+com\egt\gateway\repository\CurrencyDataRepository.class
+com\egt\gateway\config\RabbitMQConfig.class
+com\egt\gateway\service\RabbitMQSender.class
+com\egt\gateway\dto\json\CurrencyHistoryRequest.class
+com\egt\gateway\Application.class
